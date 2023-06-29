@@ -1,0 +1,8 @@
+# IDEs
+.vscode/
+
+# ols
+ols.json
+
+# executables
+*.exe
